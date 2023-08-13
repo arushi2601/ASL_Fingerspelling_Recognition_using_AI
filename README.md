@@ -1,2 +1,2 @@
 # ASL_Fingerspelling_Recognition_using_AI
-American Sign Language Fingerspelling Recognition
+Implemented using Kaggle's American Sign Language Fingerspelling Recognition competition 
