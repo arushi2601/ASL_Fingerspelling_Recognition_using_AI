@@ -1,2 +1,2 @@
-# _ASL_Fingerspelling_Recognition_using_AI
+# ASL_Fingerspelling_Recognition_using_AI
 American Sign Language Fingerspelling Recognition
